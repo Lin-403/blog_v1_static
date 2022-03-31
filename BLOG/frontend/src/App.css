@@ -1,0 +1,8 @@
+body{
+    /* background-image: url("https://lin-403.github.io/blog_v1_static/default_bg.jpg"); */
+    background-image: url("http://localhost:8000/static/2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
